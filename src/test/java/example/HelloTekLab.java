@@ -18,7 +18,11 @@ public class HelloTekLab {
 			temp=temp+"*";
 			System.out.println(temp);
 		}
+		
+		//new lines
 		System.out.println("Hello Jay, from Master!");
+		System.out.println("La la Land");
+		
 	}
 
 }
