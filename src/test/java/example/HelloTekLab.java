@@ -14,7 +14,7 @@ public class HelloTekLab {
 		System.out.println("Today is Tuesday");
 		
 		String temp=" ";
-		for(int i=0; i<5;i++) {
+		for(int i=0; i<6;i++) {
 			temp=temp+"*";
 			System.out.println(temp);
 		}
