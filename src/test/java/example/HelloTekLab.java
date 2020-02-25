@@ -9,6 +9,8 @@ public class HelloTekLab {
 
 		
 		System.out.println("Starting by this line");
+		
+		System.out.println("Hello Chris");
 	}
 
 }
