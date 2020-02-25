@@ -18,6 +18,8 @@ public class HelloTekLab {
 			temp=temp+"*";
 			System.out.println(temp);
 		}
+		
+		System.out.println("Hello Jay");
 
 	}
 
