@@ -9,7 +9,12 @@ public class HelloTekLab {
 		
 		//new commit
 		System.out.println("Today is Tuesday");
-
+		
+		String temp="1";
+		for(int i=0; i<5;i++) {
+			temp=temp+"*";
+			System.out.println(temp);
+		}
 	}
 
 }
