@@ -7,7 +7,7 @@ public class HelloTekLab {
 		System.out.println("Hello TekLab Students");
 		System.out.println(" Let's change the world");
 		
-		System.out.println("Starting by this line");
+		System.out.println("--------Change this line and and ****");
 
 		
 		System.out.println("Hello Chris");
