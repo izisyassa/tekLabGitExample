@@ -10,6 +10,7 @@ public class HelloTekLab {
 		System.out.println("--------Change this line and and ****");
 		System.out.println("Showing how to commit ");
 		
+		System.out.println(" Fana added a new feature");
 
 		System.out.println("Hello Chris");
 		System.out.println("something");
