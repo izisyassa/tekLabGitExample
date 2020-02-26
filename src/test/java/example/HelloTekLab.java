@@ -6,17 +6,20 @@ public class HelloTekLab {
 
 		System.out.println("Hello TekLab Students");
 		System.out.println(" Let's change the world");
-
-		System.out.println("Starting by this line");
+		
+		System.out.println("--------Change this line and and ****");
+		System.out.println("Showing how to commit ");
+		
 
 		System.out.println("Hello Chris");
 		System.out.println("something");
 		// new commit
 		System.out.println("Today is Tuesday");
 
-		String temp = " ";
-		for (int i = 0; i < 6; i++) { ///Changed this to 6!
-			temp = temp + "*";
+		
+		String temp=" ";
+		for(int i=0; i<6;i++) {
+			temp=temp+"*";
 			System.out.println(temp);
 
 		}
@@ -62,4 +65,5 @@ public class HelloTekLab {
 
 	}
 
+	}
 }
