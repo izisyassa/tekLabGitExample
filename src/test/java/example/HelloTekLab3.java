@@ -1,9 +1,10 @@
 package example;
 
-public class HelloTekLab {
+public class HelloTekLab3 {
 
 	public static void main(String[] args) {
-
+		
+	System.out.println();
 		System.out.println("Hello TekLab Students");
 		System.out.println(" Let's change the world");
 		
@@ -63,8 +64,6 @@ public class HelloTekLab {
 		
 		System.out.println("Thanks for working with me Chris");
 
-		
-		
 	}
 
 	}
