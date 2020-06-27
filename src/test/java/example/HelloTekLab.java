@@ -16,6 +16,7 @@ public class HelloTekLab {
 		System.out.println("something");
 		// new commit
 		System.out.println("Today is Tuesday");
+		System.out.println("new line");
 
 		
 		String temp=" ";
