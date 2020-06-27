@@ -16,9 +16,9 @@ public class HelloTekLab {
 		
 		System.out.println("Moe");
 		
-		
-		
+		System.out.println("Jay Green");
 		System.out.println("Robert Blue");
+
 	}
 
 }
