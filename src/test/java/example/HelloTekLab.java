@@ -1,5 +1,8 @@
 package example;
 
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeMethod;
+
 public class HelloTekLab {
 
 	public static void main(String[] args) {
@@ -36,8 +39,17 @@ public class HelloTekLab {
 			System.out.println(" change in MK logon ");
 =======
 		System.out.println("another code");
+		
+		System.out.println("changes in jc loginpage verify");
+		System.out.println(" seconnde ");
 
 >>>>>>> branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
+	}
+	
+	@BeforeMethod
+	public void setUp() {
+		String driverpath = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver.exe";
+		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
 
 }
