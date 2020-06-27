@@ -13,13 +13,13 @@ public class HelloTekLab {
 		System.out.println(" another code I write");
 		
 		
-		
+
+		System.out.println("Priscilla 7");
 		System.out.println("Moe");
-		
 		System.out.println("Jay Green");
 		System.out.println("Robert 85");
+		System.out.println("another code");
 
 	}
 
 }
-
