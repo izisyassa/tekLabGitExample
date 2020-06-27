@@ -13,16 +13,12 @@ public class HelloTekLab {
 		System.out.println(" another code I write");
 		
 		
-<<<<<<< HEAD
 
 		System.out.println("Priscilla 7");
-=======
-		
 		System.out.println("Moe");
-		
 		System.out.println("Jay Green");
->>>>>>> branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
 		System.out.println("Robert Blue");
+		System.out.println("another code");
 
 	}
 
