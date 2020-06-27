@@ -23,6 +23,7 @@ public class HelloTekLab {
 		
 		
 		System.out.println("changed in rc loginpage verify");
+		System.out.println("yes");
 	}
 
 }
