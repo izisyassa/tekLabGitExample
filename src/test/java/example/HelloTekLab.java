@@ -12,6 +12,10 @@ public class HelloTekLab {
 		System.out.println("clean up code");
 		System.out.println(" another code I write");
 		
+		
+		
+		System.out.println("Moe");
+		
 	}
 
 }
