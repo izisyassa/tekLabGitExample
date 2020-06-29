@@ -8,7 +8,7 @@ public class Hw_Git_Practice1 {
 		for (String i : cars) {
 			System.out.println(" Niceeeee :-) ");
 			System.out.println(i);
-			System.out.println("!!");
+			System.out.println("!");
 
 		}
 
