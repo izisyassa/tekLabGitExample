@@ -23,6 +23,13 @@ public class HelloTekLab {
 		
 		System.out.println("changes in jc login page verify");
 		System.out.println(" seconnde");
+		
+		System.out.println("------------------");
+		String[] cars = {"Tesla", "Mercedes Benz", "BMW", "Lexus"};
+		for (String i : cars) {
+		System.out.println(" Niceeeee :-) ");
+		System.out.println(i);
+		}
 
 	}
 	
