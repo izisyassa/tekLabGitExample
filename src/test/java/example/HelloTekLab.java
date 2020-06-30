@@ -14,6 +14,7 @@ public class HelloTekLab {
 		System.out.println("Showing how to commit ");
 		System.out.println("clean up code");
 		System.out.println(" another code I write");
+		System.out.println("wafa white");
 		
 		
 <<<<<<< HEAD
