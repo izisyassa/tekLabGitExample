@@ -13,31 +13,25 @@ public class HelloTekLab {
 		System.out.println(" another code I write");
 		
 		
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
+
+
+
 
 		System.out.println("Priscilla 7");
-<<<<<<< HEAD
+
 
 		
-=======
->>>>>>> branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
+
 		System.out.println("Moe");
 		System.out.println("Jay Green");
-<<<<<<< HEAD
-   // branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
-=======
->>>>>>> branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
 		System.out.println("Robert Blue");
-<<<<<<< HEAD
+
 
 			System.out.println(" change in MK logon ");
-=======
-		System.out.println("another code");
 
->>>>>>> branch 'master' of https://github.com/jayjuly31/tekLabGitExample.git
+		System.out.println("another code");
+		System.out.println("moes branch testing around");
 	}
 
 }
