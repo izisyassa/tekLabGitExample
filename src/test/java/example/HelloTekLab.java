@@ -1,3 +1,4 @@
+
 package example;
 
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -17,6 +18,14 @@ public class HelloTekLab {
 		String driverpath = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
+
+
+
+		
+
+	}
+	
+
 
 }
 
