@@ -1,7 +1,6 @@
-
 package example;
 
-import org.openqa.selenium.chrome.ChromeDriver;
+
 import org.testng.annotations.BeforeMethod;
 
 public class HelloTekLab {
@@ -18,14 +17,6 @@ public class HelloTekLab {
 		String driverpath = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", driverpath);
 	}
-
-
-
-		
-
-	}
-	
-
 
 }
 
