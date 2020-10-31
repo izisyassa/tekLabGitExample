@@ -8,11 +8,8 @@ public class HelloTekLab {
 	public static void main(String[] args) {
 
 		System.out.println("Hello TekLab Students");
-		System.out.println("This is Peter's Change");
+		System.out.println("This is my third commit today");
 		
-		System.out.println("This is my second commit today");
-		
-
 	}
 	
 	@BeforeMethod
